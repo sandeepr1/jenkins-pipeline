@@ -1,0 +1,26 @@
+{
+  "name": "jenkins-pipeline",
+  "version": "1.0.0",
+  "description": "Poc to create a jenkins pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepr1/jenkins-pipeline.git"
+  },
+  "keywords": [
+    "jenkins",
+    "pipeline"
+  ],
+  "author": "sandeep reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepr1/jenkins-pipeline/issues"
+  },
+  "homepage": "https://github.com/sandeepr1/jenkins-pipeline#readme",
+  "dependencies": {
+    "mongoose": "^5.1.1"
+  }
+}
